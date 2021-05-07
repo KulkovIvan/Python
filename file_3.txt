@@ -1,0 +1,4 @@
+Ivanov 23000
+Petrov 15500
+Sidorov 22000
+Gorin 18500
